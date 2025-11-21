@@ -1,6 +1,6 @@
 # Web Request Flow 
 
-When we type a URL in a browser, like `https://usiu.ac.ke`, we are basically telling the browser where to find the website and what resource we want. A URL has different parts: the protocol (`https`), the domain name (`example.com`), and optionally a path (`/page1`). The protocol tells the browser how to talk to the server, the domain name tells it which server, and the path points to the exact resource.
+When we type a URL in a browser, like `https://usiu.ac.ke`, we are basically telling the browser where to find the website and what resource we want. A URL has different parts: the protocol (`https`), the domain name (`usiu.ac.ke`), and optionally a path (`/page1`). The protocol tells the browser how to talk to the server, the domain name tells it which server, and the path points to the exact resource.
 
 Before the browser can connect to the server, it needs to know the server’s IP address. This is where DNS, or Domain Name System, comes in. The browser asks a DNS server to translate the human-friendly domain into an IP address. Once the IP is known, the browser can start talking to the server.
 
