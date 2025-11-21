@@ -1,0 +1,10 @@
+/* Minimal CSS to make file load successfully */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, main, section, footer {
+    /* Semantic regions */
+}
